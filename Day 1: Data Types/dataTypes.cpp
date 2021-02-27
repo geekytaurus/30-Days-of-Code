@@ -2,7 +2,8 @@
 
                              Day 1: Data Types | HackerRank #30days-of-code
                              
-                                  Author : MAMATA SHEE ( @mpscoder )
+                                       Author : MAMATA SHEE 
+                                          ( @mpscoder )
 
 ***************************************************************************************************************/
 
