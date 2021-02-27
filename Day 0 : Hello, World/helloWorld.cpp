@@ -2,7 +2,8 @@
 
                           Day 0: Hello, World | HackerRank #30days-of-code
                           
-                             Author : MAMATA SHEE  ( @mpscoder )
+                                    Author : MAMATA SHEE 
+                                        ( @mpscoder )
                              
 ****************************************************************************************************************/
 
