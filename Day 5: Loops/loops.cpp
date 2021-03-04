@@ -1,6 +1,6 @@
 /***************************************************************************************************************
 
-                              Day 5: Loops | HackerRank #30days-of-code
+                            Day 5: Loops | HackerRank #30daysOfCode
                               
                                    Author : MAMATA SHEE
                                       ( @mpscoder )
