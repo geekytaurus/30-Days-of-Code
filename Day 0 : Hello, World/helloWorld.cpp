@@ -1,6 +1,6 @@
 /***************************************************************************************************************
 
-                          Day 0: Hello, World | HackerRank #30days-of-code
+                          Day 0: Hello, World | HackerRank #30daysOfCode
                           
                                     Author : MAMATA SHEE 
                                         ( @mpscoder )
