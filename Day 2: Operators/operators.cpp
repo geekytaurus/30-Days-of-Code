@@ -1,5 +1,6 @@
 /************************************************************************************************************
-                           Day 2: Operators | HackerRank #30days-of-code
+
+                         Day 2: Operators | HackerRank #30daysOfCode
 
                                    Author : MAMATA SHEE
                                      ( @mpscoder)
