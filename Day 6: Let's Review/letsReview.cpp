@@ -1,6 +1,6 @@
 /******************************************************************************************************************
 
-                           Day 6: Let's Review | HackerRank #30days-of-code
+                          Day 6: Let's Review | HackerRank #30daysOfCode
                             
                                     Author : MAMATA SHEE
                                        ( @mpscoder )
