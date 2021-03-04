@@ -1,6 +1,6 @@
 /**************************************************************************************************************
 
-                             Day 1: Data Types | HackerRank #30days-of-code
+                              Day 1: Data Types | HackerRank #30daysOfCode
                              
                                        Author : MAMATA SHEE 
                                           ( @mpscoder )
