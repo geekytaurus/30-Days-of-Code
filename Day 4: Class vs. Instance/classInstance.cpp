@@ -1,6 +1,6 @@
 /*********************************************************************************************************************************
 
-                                     Day 4: Class vs. Instance | HackerRank #30days-of-code
+                                       Day 4: Class vs. Instance | HackerRank #30daysOfCode
                                              
                                                    Author : MAMATA SHEE
                                                       ( @mpscoder)
