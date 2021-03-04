@@ -1,6 +1,6 @@
 /****************************************************************************************************
 
-                                   Day 7: Arrays | HackerRank #30days-of-code
+                                  Day 7: Arrays | HackerRank #30daysOfCode
                                    
                                          Author : MAMATA SHEE
                                             ( @mpscoder )
