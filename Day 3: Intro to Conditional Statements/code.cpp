@@ -2,8 +2,6 @@
  
                      Day 3: Intro to Conditional Statements | HackerRank #30daysOfCode
                     
-                                       Author : MAMATA SHEE  
-                                          ( @mpscoder ) 
 
 *************************************************************************************************************/
 
