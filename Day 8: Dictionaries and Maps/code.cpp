@@ -2,8 +2,6 @@
 
                          Day 8: Dictionaries and Maps | HackerRank #30daysOfCode
                                        
-                                      Author : MAMATA SHEE
-                                         ( @mpscoder )
                                          
 ********************************************************************************************************************/
 
