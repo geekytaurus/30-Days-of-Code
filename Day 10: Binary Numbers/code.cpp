@@ -2,8 +2,6 @@
 
                              Day 10: Binary Numbers | HackerRank #30daysOfCode
                                      
-                                       Author : MAMATA SHEE
-                                          ( @mpscoder )
 
 ****************************************************************************************************************/
 
